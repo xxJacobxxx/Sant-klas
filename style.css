@@ -1,0 +1,19 @@
+.head{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: 10 px;
+    justify-content: space-between;
+
+}
+.lista{
+    background-color: gray;
+    padding: 1px;
+    margin-left: 150px;
+    margin-right:150px;
+    border: 2 px solid black;
+
+
+
+    
+}
